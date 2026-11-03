@@ -1,2 +1,2 @@
-# rust_using_option
+# Rust Option enum
 Learning Option enum In Rust programming language
